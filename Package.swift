@@ -14,7 +14,7 @@ let package = Package(
         .binaryTarget(
             name: "TranscendHeadlessSDK",
             url: "https://cdn.transcend.io/consent-manager-headless-ios-library/releases/download/0.9.2/TranscendHeadless.xcframework.zip",
-            checksum: "b402341cc97a92af0916842e4d15df3c16b111deaefdd841b6d4d54d500c6d79"
+            checksum: "3f5c7d6dfcb54be57224937050f3ab51d9fa4f9b68a9ff390d5a3f8d14261dff"
         ),
     ]
 )
